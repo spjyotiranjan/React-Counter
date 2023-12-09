@@ -1,0 +1,20 @@
+*{
+  text-align: center;
+}
+.button{
+  width: 13%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+button{
+  padding: 4px 15px;
+  font-size: 20px;
+  background-color: transparent;
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, 0.397);
+}
+button:hover{
+  border: 1px solid rgba(0, 0, 0, 0.784);
+  background-color: rgba(0, 0, 0, 0.059);
+}
